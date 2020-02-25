@@ -1,0 +1,20 @@
+nav{background-color: black;text-align: right;}
+@font-face {
+  font-family: "Bardon Demo";
+  src: url("Bardon Demo.otf");}
+.sev{text-align: center;font-family: "Bardon Demo"}
+.Desde{text-align: left;}
+.Topers{text-align: center;}
+.somos{text-align: center; }
+.Y{text-align: right;}
+.tupperware{width:100% ;}
+.img1{width: 636px;height: 318px;}
+.img1.1{text-align: left;}
+.img2{width: 636px;height: 318px;}
+.img2-1{text-align: center;}
+.img3{width: 318px;height: 159px;}
+.img3-1{ text-align: right;;}
+.img4{width: 318px;height: 159px;}
+.img4-1{text-align: center;}
+.full{width: 100%;}
+body{margin: 0}
