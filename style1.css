@@ -1,13 +1,33 @@
 nav{background-color: black;text-align: right;}
 @font-face {
   font-family: "Bardon Demo";
-  src: url("Bardon Demo.otf");}
+  src: url("Bardon Demo.otf");
+}
+
 .sev{text-align: center;font-family: "Bardon Demo"}
 .Desde{text-align: left;}
+.experiencias{margin-left:250px;margin-top:2rem;display: flex;}
+.experiencias>div {
+  display: inline-block;
+}
+.experiencias>div.va-c {
+  vertical-align: center;
+  margin-top: 2.5rem;
+  margin-left: 1rem;
+  height: 100%;
+}
+.experiencias>img {
+  display: inline-block;
+}
 .Topers{text-align: center;}
 .somos{text-align: center; }
 .Y{text-align: right;}
-.tupperware{width:100% ;}
+
+.tupperware {
+  width: 1265px;
+  height: 400px;
+}
+
 .img1{width: 636px;height: 318px;}
 .img1.1{text-align: left;}
 .img2{width: 636px;height: 318px;}
