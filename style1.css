@@ -12,13 +12,36 @@ nav{background-color: black;text-align: right;}
 }
 .experiencias>div.va-c {
   vertical-align: center;
-  margin-top: 2.5rem;
-  margin-left: 1rem;
+  margin-top: 6rem;
+  margin-left: 12rem;
+  margin-bottom: 100px;
+  margin-right: 150px;
+
   height: 100%;
 }
 .experiencias>img {
   display: inline-block;
 }
+.sucursales{
+  margin-left:12rem;
+  margin-top:2rem;
+  display: flex;}
+
+.sucursales>div{
+  display: inline-block;
+}
+
+.sucursales>div.va-c {
+  vertical-align: center;
+  margin-top: 2.5rem;
+  margin-left: 1rem;
+  height: 100%;
+}
+
+.sucursales>img{
+  display: inline-block;
+}
+
 .Topers{text-align: center;}
 .somos{text-align: center; }
 .Y{text-align: right;}
