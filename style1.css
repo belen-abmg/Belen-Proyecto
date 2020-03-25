@@ -4,43 +4,24 @@ nav{background-color: black;text-align: right;}
   src: url("Bardon Demo.otf");
 }
 
-.sev{text-align: center;font-family: "Bardon Demo"}
+.sev{text-align: center;font-family: "Bardon Demo";}
 .Desde{text-align: left;}
-.experiencias{margin-left:250px;margin-top:2rem;display: flex;}
-.experiencias>div {
-  display: inline-block;
-}
-.experiencias>div.va-c {
-  vertical-align: center;
-  margin-top: 6rem;
-  margin-left: 12rem;
-  margin-bottom: 100px;
-  margin-right: 150px;
+.experiencias{margin-left:250px;margin-top:3rem;display: flex;}
+.experiencias1{display: inline-block;margin-left:4rem;margin-top:1rem;}
+.TitleExp{text-align: left;}
+.ParagExp{margin-top:2rem;}
+.sucursales{margin-left:250px;margin-top:3rem;display: flex;}
+.sucursales1{display: inline-block;margin-left:4rem;}
+.TitleSuc{text-align:center;}
+.ParagSuc{margin-top:1rem;}
 
-  height: 100%;
-}
-.experiencias>img {
-  display: inline-block;
-}
-.sucursales{
-  margin-left:12rem;
-  margin-top:2rem;
-  display: flex;}
+.catalogo{display:inline-block;}
 
-.sucursales>div{
-  display: inline-block;
-}
+.ecos{display: inline-block;text-align: center;margin-left:7rem;}
 
-.sucursales>div.va-c {
-  vertical-align: center;
-  margin-top: 2.5rem;
-  margin-left: 1rem;
-  height: 100%;
-}
-
-.sucursales>img{
-  display: inline-block;
-}
+.botes{height:183px;width:275px;}
+.ninos{height:183px;width:275px;}
+.comida{height:183px;width:275px;}
 
 .Topers{text-align: center;}
 .somos{text-align: center; }
@@ -51,13 +32,5 @@ nav{background-color: black;text-align: right;}
   height: 400px;
 }
 
-.img1{width: 636px;height: 318px;}
-.img1.1{text-align: left;}
-.img2{width: 636px;height: 318px;}
-.img2-1{text-align: center;}
-.img3{width: 318px;height: 159px;}
-.img3-1{ text-align: right;;}
-.img4{width: 318px;height: 159px;}
-.img4-1{text-align: center;}
 .full{width: 100%;}
 body{margin: 0}
